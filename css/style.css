@@ -21,3 +21,13 @@ header {
     height: 200px;
     }
 
+.navBar {
+    list-style-type: none;
+  margin-top: auto;
+  padding: 0;
+}
+
+.navBar li {
+ display: inline;
+ padding-right: 25px;
+}
